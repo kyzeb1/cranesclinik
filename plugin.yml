@@ -1,8 +1,0 @@
-name: BattleRoyale
-main: turbomine.battleroyale.BattleRoyalePlugin
-version: 1.0
-api-version: 1.16
-commands:
-  startbr:
-    description: Запускает матч Battle Royale
-    usage: /<command>
